@@ -52,14 +52,7 @@ pip install -r requirements.txt
 
 # Run the application
 streamlit run app.py
+```
 
-
----
-
-## 🌐 Live App
-🔗 **Try it here:** [Salary Predictor on Streamlit](https://salary-prediction-using-traditional-ml-techniques-tgzlcuftltxy.streamlit.app/)
-
----
-
-## 📜 License
-This project is licensed under the **MIT License** — feel free to use and modify.
+🌐 Live App
+🔗 Try it here: https://salary-prediction-using-traditional-ml-techniques-tgzlcuftltxy.streamlit.app/
