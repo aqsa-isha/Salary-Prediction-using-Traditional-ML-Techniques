@@ -54,5 +54,5 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-🌐 Live App
+🌐 Live App <br>
 🔗 Try it here: https://salary-prediction-using-traditional-ml-techniques-tgzlcuftltxy.streamlit.app/
