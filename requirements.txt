@@ -1,0 +1,10 @@
+streamlit
+streamlit-lottie
+plotly
+joblib
+pandas
+numpy
+requests
+scikit-learn
+pyngrok
+setuptools
